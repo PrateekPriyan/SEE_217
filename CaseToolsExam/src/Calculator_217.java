@@ -9,6 +9,7 @@ public class Calculator_217 {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		int result;
 
 	}
 
